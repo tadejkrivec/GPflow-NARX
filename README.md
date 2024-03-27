@@ -1,7 +1,7 @@
 # GPflow extension for autoregressive GPs
 
 ## Project structure
-Source code for for the algorithms can be found in `gpnarx`. End-to-end example for modeling a dynamical system can be found in `notebooks`.
+Source code for the algorithms can be found in `gpnarx`. End-to-end example for modeling a dynamical system can be found in `notebooks`.
 
 ## Environment
 Conda environment can be set up the following way
